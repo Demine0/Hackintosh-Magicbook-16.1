@@ -10,7 +10,7 @@
 | WiFI,Bluetooth | Intel AX210                 |
 | Touchpad       | Goodix GXTP7863             |
 | Screen         | Full HD (1920x1080) 144Hz   |
-| SMBIOS         | Macbook Pro 16,3            |
+| SMBIOS         | MacBookPro16,3              |
 | OpenCore       | OpenCore 0.9.9              |
 | macOS          | macOS Sonoma 14.4           |
 
