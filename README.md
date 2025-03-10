@@ -11,7 +11,7 @@
 | Touchpad       | Goodix GXTP7863             |
 | Screen         | Full HD (1920x1080) 144Hz   |
 | SMBIOS         | MacBookPro16,3              |
-| OpenCore       | OpenCore 1.0.2              |
+| OpenCore       | OpenCore 1.0.3              |
 | macOS          | macOS Sonoma 14.4           |
 
 #### В настоящее время недоступно / Now doen't work
