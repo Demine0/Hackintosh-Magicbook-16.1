@@ -1926,7 +1926,7 @@
 			<data>
 			</data>
 			<key>ScanPolicy</key>
-			<integer>2687747</integer>
+			<integer>0</integer>
 			<key>SecureBootModel</key>
 			<string>x86legacy</string>
 			<key>Vault</key>
