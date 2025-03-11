@@ -1928,7 +1928,7 @@
 			<key>ScanPolicy</key>
 			<integer>0</integer>
 			<key>SecureBootModel</key>
-			<string>x86legacy</string>
+			<string>Disabled</string>
 			<key>Vault</key>
 			<string>Optional</string>
 		</dict>
@@ -1986,7 +1986,7 @@
 				AAAAAAAAAAAAAAAAAAA=
 				</data>
 				<key>boot-args</key>
-				<string>-lilubetaall swd_panic=1 keepsyms=1</string>
+				<string>-v -lilubetaall swd_panic=1 keepsyms=1</string>
 				<key>csr-active-config</key>
 				<data>
 				AQAAAA==
